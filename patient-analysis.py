@@ -3,6 +3,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+"Adding comment from developer B"
 data = np.loadtxt(fname='data/inflammation1.csv',delimiter=',')
 
 #Finding dimensions of data
