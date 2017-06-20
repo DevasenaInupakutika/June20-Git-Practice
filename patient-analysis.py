@@ -17,3 +17,6 @@ print(data[0])
 image-1=plt.plot(data)
 
 plt.show(image-1)
+
+#Lots of prints in this file, adding one more print
+print("Please stop adding more prints after this")
