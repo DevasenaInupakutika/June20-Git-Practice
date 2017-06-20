@@ -10,6 +10,9 @@ print(data.shape)
 
 print(data)
 
+#Print just the first row of data getting day1 data
+print(data[0])
+
 #Plotting data
 image-1=plt.plot(data)
 
